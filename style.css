@@ -136,7 +136,7 @@ footer p {
 }
 
 /* -------  Media Query ------- */
-@media screen and (min-width: 640px) {
+@media screen and (min-width: 480px) {
   header {
     display: flex;
     flex-direction: row;
